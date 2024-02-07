@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-
 # Reservation Cancellation Forecasting: a Senior Machine Learning Engineer assignment
 
 ![Pipelines](images/ml_pipelines.png)
